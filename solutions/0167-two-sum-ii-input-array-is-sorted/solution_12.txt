@@ -1,0 +1,16 @@
+# two sum ii input array is sorted (Solution 12)
+# Difficulty: Medium
+# Language: Unknown
+# URL: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+# Date: 6/30/2025
+
+     int n = numbers.length;
+     int first = 0;
+     int last = n - 1;
+
+    
+
+     //loop for 2 pointer 
+    while(first < last){
+
+        int sum = numbers[first] + numbers[last];
