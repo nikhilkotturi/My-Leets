@@ -12,5 +12,5 @@
 
      //loop for 2 pointer 
     while(first < last){
-        if(numbers[first] + numbers[last] == target){
-            return new int[]{first+1, last+1};
+
+        
