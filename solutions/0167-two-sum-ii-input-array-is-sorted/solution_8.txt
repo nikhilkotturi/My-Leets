@@ -4,7 +4,7 @@
 # URL: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 # Date: 6/30/2025
 
-    whi{
+    while){
         if(numbers[first] + numbers[last] == target){
             return new int[]{first+1, last+1};
         }
