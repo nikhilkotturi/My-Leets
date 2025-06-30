@@ -24,6 +24,7 @@ Your...
 - [solution_4.txt](solution_4.txt) - Unknown solution
 - [solution_5.txt](solution_5.txt) - Unknown solution
 - [solution_6.txt](solution_6.txt) - Unknown solution
+- [solution_7.txt](solution_7.txt) - Unknown solution
 
 ---
 
