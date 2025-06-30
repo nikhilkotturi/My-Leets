@@ -14,3 +14,9 @@ class Solution {
      int[] result = new int[2];
 
      //loop for 2 pointer 
+…        }
+     }
+
+    return result;
+    }
+}
