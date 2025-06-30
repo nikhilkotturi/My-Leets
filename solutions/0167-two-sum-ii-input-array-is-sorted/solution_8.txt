@@ -4,10 +4,6 @@
 # URL: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 # Date: 6/30/2025
 
-//         }
-//      }
-
-//     return result;
-//     }
-// }
-
+    return result;
+    }
+}
