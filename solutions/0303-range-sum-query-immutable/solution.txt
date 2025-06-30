@@ -1,0 +1,19 @@
+# range sum query immutable
+# Difficulty: Easy
+# Language: Unknown
+# URL: https://leetcode.com/problems/range-sum-query-immutable/description/
+# Date: 6/29/2025
+
+// class NumArray {
+//     private int[] prefixSum;
+
+//     public NumArray(int[] nums) {
+//         int n = nums.length;
+//         prefixSum = new int[n];
+
+        
+//         prefixSum[0] = nums[0];
+//         for(int i = 1; i < n; i++){
+//             prefixSum[i] = prefixSum[i - 1] + nums[i];
+//         }
+//     }
