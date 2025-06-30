@@ -4,19 +4,10 @@
 # URL: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 # Date: 6/30/2025
 
-class Solution {
-    public int[] twoSum(int[] numbers, int target) {
-     //intializing 2 pointers and n
-     int n = numbers.length;
-     int first = 0;
-     int last = n - 1;
+//         }
+//      }
 
-     int[] result = new int[2];
+//     return result;
+//     }
+// }
 
-     //loop for 2 pointer 
-…        }
-     }
-
-    return result;
-    }
-}
