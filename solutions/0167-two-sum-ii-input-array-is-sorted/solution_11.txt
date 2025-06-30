@@ -1,16 +1,11 @@
 # two sum ii input array is sorted (Solution 11)
 # Difficulty: Medium
 # Language: Unknown
-# URL: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/1681632700/
+# URL: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 # Date: 6/30/2025
 
-        if(sum == target){
-            return new int[]{first+1, last+1};
-        }
-        else if(sum > target){
-            last -= 1;
-        }
+     }
 
-        else{
-            first += 1;
-        }
+    // return result;
+    }
+}
