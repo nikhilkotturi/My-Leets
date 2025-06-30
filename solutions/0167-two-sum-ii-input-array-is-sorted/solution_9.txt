@@ -13,4 +13,4 @@
      //loop for 2 pointer 
     while(first < last){
 
-        int sum = fi
+        int sum = first
