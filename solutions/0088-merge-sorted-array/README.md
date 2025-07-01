@@ -17,6 +17,7 @@ The final sorted array should not be returned by the function, but instead be st
 ## Solution
 
 - [solution.txt](solution.txt) - Unknown solution
+- [solution_2.txt](solution_2.txt) - Unknown solution
 
 ---
 
