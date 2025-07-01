@@ -1,7 +1,7 @@
 # merge sorted array (Solution 196)
 # Difficulty: Easy
 # Language: Unknown
-# URL: https://leetcode.com/problems/merge-sorted-array/
+# URL: https://leetcode.com/problems/merge-sorted-array/description/
 # Date: 7/1/2025
 
 class Solution {
