@@ -4,16 +4,8 @@
 # URL: https://leetcode.com/problems/merge-sorted-array/
 # Date: 7/1/2025
 
-        else{
-            nums1[c] = nums1[a];
             c--;
-            a--;
+            b--;
         }
-
-      }
-
-      if(a < 0 && b != a){
-        nums1[c] = nums2[b];
-      }
     }
 }
