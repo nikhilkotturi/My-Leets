@@ -13,4 +13,4 @@
       }
 
       if(a < 0 && b != a){
-        nums1[c] = nu
+        nums1[c] = nums
