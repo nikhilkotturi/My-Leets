@@ -63,6 +63,7 @@ The final sorted array should not be returned by the function, but instead be st
 - [solution_45.txt](solution_45.txt) - Unknown solution
 - [solution_46.txt](solution_46.txt) - Unknown solution
 - [solution_47.txt](solution_47.txt) - Unknown solution
+- [solution_48.txt](solution_48.txt) - Unknown solution
 
 ---
 
