@@ -1,0 +1,25 @@
+# merge sorted array (Solution 7)
+# Difficulty: Easy
+# Language: Unknown
+# URL: https://leetcode.com/problems/merge-sorted-array/submissions/1682201249/
+# Date: 7/1/2025
+
+class Solution {
+    public void merge(int[] nums1, int m, int[] nums2, int n) {
+      int a = m -1;  
+      int b = n -1;
+      int c = m + n -1;
+
+    if(a < 0){
+        while(b >= 0){
+            nums1[c] = nums2[b];
+            c--;
+…        else{
+            nums1[c] = nums1[a];
+            c--;
+            a--;
+        }
+
+      }
+    }
+}
