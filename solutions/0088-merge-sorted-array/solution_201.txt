@@ -1,0 +1,16 @@
+# merge sorted array (Solution 201)
+# Difficulty: Easy
+# Language: Unknown
+# URL: https://leetcode.com/problems/merge-sorted-array/description/
+# Date: 7/1/2025
+
+        else{
+            nums1[c] = nums1[a];
+            c--;
+            a--;
+        }
+
+      }
+
+       while(b >= 0){
+            nums1[c] = nums2[b];
