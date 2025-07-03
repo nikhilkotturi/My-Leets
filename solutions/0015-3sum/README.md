@@ -82,3 +82,4 @@
 - [solution_78.ts](solution_78.ts) - Typescript solution
 - [solution_79.ts](solution_79.ts) - Typescript solution
 - [solution_80.ts](solution_80.ts) - Typescript solution
+- [solution_81.ts](solution_81.ts) - Typescript solution
