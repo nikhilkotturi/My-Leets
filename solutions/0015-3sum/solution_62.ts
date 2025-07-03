@@ -4,13 +4,13 @@
 # URL: https://leetcode.com/problems/3sum/
 # Date: 7/3/2025
 
-    
-    for(int i = 0; i < n; i++){
-        map.put(nums[i], i);
-    }
+//     }
+// }
 
+class Solution {
+    public List<List<Integer>> threeSum(int[] nums) {
     
-     for(int i = 0; i < n; i ++){
-        for(int j = i + 1; j < n; j++){
-            for(int k = j + 1; k < n; k++){
-                if(nums[i] + nums[j] + nums[k] == 0){
+    Set<List<Integer>> resultSet = new HashSet<>();
+    Map<Integer, Integer> map = new HashMap<>();
+
+    int n = nums.length;
