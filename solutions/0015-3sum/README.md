@@ -50,3 +50,4 @@
 - [solution_46.ts](solution_46.ts) - Typescript solution
 - [solution_47.ts](solution_47.ts) - Typescript solution
 - [solution_48.ts](solution_48.ts) - Typescript solution
+- [solution_49.ts](solution_49.ts) - Typescript solution
