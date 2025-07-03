@@ -40,3 +40,4 @@
 - [solution_36.ts](solution_36.ts) - Typescript solution
 - [solution_37.ts](solution_37.ts) - Typescript solution
 - [solution_38.ts](solution_38.ts) - Typescript solution
+- [solution_39.ts](solution_39.ts) - Typescript solution
