@@ -1,0 +1,16 @@
+# 3sum (Solution 2)
+# Difficulty: Medium
+# Language: Unknown
+# URL: https://leetcode.com/problems/3sum/
+# Date: 7/2/2025
+
+                    Collections.sort(triplet);
+                    resultSet.add(triplet);
+                }
+            } 
+        }
+     }
+
+     return new ArrayList<List<Integer>>(resultSet);   
+    }
+}
