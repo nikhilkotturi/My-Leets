@@ -76,3 +76,4 @@
 - [solution_72.ts](solution_72.ts) - Typescript solution
 - [solution_73.ts](solution_73.ts) - Typescript solution
 - [solution_74.ts](solution_74.ts) - Typescript solution
+- [solution_75.ts](solution_75.ts) - Typescript solution
