@@ -1,7 +1,7 @@
 # 3sum (Solution 37)
 # Difficulty: Medium
 # Language: Typescript
-# URL: https://leetcode.com/problems/3sum/submissions/1684574912/
+# URL: https://leetcode.com/problems/3sum/description/
 # Date: 7/3/2025
 
 //     }
