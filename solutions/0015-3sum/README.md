@@ -93,3 +93,4 @@
 - [solution_89.ts](solution_89.ts) - Typescript solution
 - [solution_90.ts](solution_90.ts) - Typescript solution
 - [solution_91.ts](solution_91.ts) - Typescript solution
+- [solution_92.ts](solution_92.ts) - Typescript solution
