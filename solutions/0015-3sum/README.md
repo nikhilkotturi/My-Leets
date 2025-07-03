@@ -1,107 +1,32 @@
+# 3sum
 
+**Problem Number:** 15
 
-## Solutions
+**Difficulty:** Medium
+
+**LeetCode URL:** [3sum](https://leetcode.com/problems/3sum/)
+
+## Problem Description
+
+Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
+
+Notice that the solution set must not contain duplicate triplets.
+
+ 
+Example 1:
+
+Input: nums = [-1,0,1,2,-1,-4]
+Output: [[-1,-1,2],[-1,0,1]]
+Explanation: 
+nums[0] + nums[1] + nums[2] = (-1) + 0 + 1 = 0.
+nums[1] + nums[2] + nums[4] = 0 + 1 + (-1) = 0.
+nums[0] + nums[3] + nums[4] = (-1) + 2 + (-1) = 0.
+The distinct triplets are [-1,0,1] and [...
+
+## Solution
 
 - [solution.ts](solution.ts) - Typescript solution
-- [solution_2.ts](solution_2.ts) - Typescript solution
-- [solution_3.ts](solution_3.ts) - Typescript solution
-- [solution_4.ts](solution_4.ts) - Typescript solution
-- [solution_5.ts](solution_5.ts) - Typescript solution
-- [solution_6.ts](solution_6.ts) - Typescript solution
-- [solution_7.ts](solution_7.ts) - Typescript solution
-- [solution_8.ts](solution_8.ts) - Typescript solution
-- [solution_9.ts](solution_9.ts) - Typescript solution
-- [solution_10.ts](solution_10.ts) - Typescript solution
-- [solution_11.ts](solution_11.ts) - Typescript solution
-- [solution_12.ts](solution_12.ts) - Typescript solution
-- [solution_13.ts](solution_13.ts) - Typescript solution
-- [solution_14.ts](solution_14.ts) - Typescript solution
-- [solution_15.ts](solution_15.ts) - Typescript solution
-- [solution_16.ts](solution_16.ts) - Typescript solution
-- [solution_17.ts](solution_17.ts) - Typescript solution
-- [solution_18.ts](solution_18.ts) - Typescript solution
-- [solution_19.ts](solution_19.ts) - Typescript solution
-- [solution_20.ts](solution_20.ts) - Typescript solution
-- [solution_21.ts](solution_21.ts) - Typescript solution
-- [solution_22.ts](solution_22.ts) - Typescript solution
-- [solution_23.ts](solution_23.ts) - Typescript solution
-- [solution_24.ts](solution_24.ts) - Typescript solution
-- [solution_25.ts](solution_25.ts) - Typescript solution
-- [solution_26.ts](solution_26.ts) - Typescript solution
-- [solution_27.ts](solution_27.ts) - Typescript solution
-- [solution_28.ts](solution_28.ts) - Typescript solution
-- [solution_29.ts](solution_29.ts) - Typescript solution
-- [solution_30.ts](solution_30.ts) - Typescript solution
-- [solution_31.ts](solution_31.ts) - Typescript solution
-- [solution_32.ts](solution_32.ts) - Typescript solution
-- [solution_33.ts](solution_33.ts) - Typescript solution
-- [solution_34.ts](solution_34.ts) - Typescript solution
-- [solution_35.ts](solution_35.ts) - Typescript solution
-- [solution_36.ts](solution_36.ts) - Typescript solution
-- [solution_37.ts](solution_37.ts) - Typescript solution
-- [solution_38.ts](solution_38.ts) - Typescript solution
-- [solution_39.ts](solution_39.ts) - Typescript solution
-- [solution_40.ts](solution_40.ts) - Typescript solution
-- [solution_41.ts](solution_41.ts) - Typescript solution
-- [solution_42.ts](solution_42.ts) - Typescript solution
-- [solution_43.ts](solution_43.ts) - Typescript solution
-- [solution_44.ts](solution_44.ts) - Typescript solution
-- [solution_45.ts](solution_45.ts) - Typescript solution
-- [solution_46.ts](solution_46.ts) - Typescript solution
-- [solution_47.ts](solution_47.ts) - Typescript solution
-- [solution_48.ts](solution_48.ts) - Typescript solution
-- [solution_49.ts](solution_49.ts) - Typescript solution
-- [solution_50.ts](solution_50.ts) - Typescript solution
-- [solution_51.ts](solution_51.ts) - Typescript solution
-- [solution_52.ts](solution_52.ts) - Typescript solution
-- [solution_53.ts](solution_53.ts) - Typescript solution
-- [solution_54.ts](solution_54.ts) - Typescript solution
-- [solution_55.ts](solution_55.ts) - Typescript solution
-- [solution_56.ts](solution_56.ts) - Typescript solution
-- [solution_57.ts](solution_57.ts) - Typescript solution
-- [solution_58.ts](solution_58.ts) - Typescript solution
-- [solution_59.ts](solution_59.ts) - Typescript solution
-- [solution_60.ts](solution_60.ts) - Typescript solution
-- [solution_61.ts](solution_61.ts) - Typescript solution
-- [solution_62.ts](solution_62.ts) - Typescript solution
-- [solution_63.ts](solution_63.ts) - Typescript solution
-- [solution_64.ts](solution_64.ts) - Typescript solution
-- [solution_65.ts](solution_65.ts) - Typescript solution
-- [solution_66.ts](solution_66.ts) - Typescript solution
-- [solution_67.ts](solution_67.ts) - Typescript solution
-- [solution_68.ts](solution_68.ts) - Typescript solution
-- [solution_69.ts](solution_69.ts) - Typescript solution
-- [solution_70.ts](solution_70.ts) - Typescript solution
-- [solution_71.ts](solution_71.ts) - Typescript solution
-- [solution_72.ts](solution_72.ts) - Typescript solution
-- [solution_73.ts](solution_73.ts) - Typescript solution
-- [solution_74.ts](solution_74.ts) - Typescript solution
-- [solution_75.ts](solution_75.ts) - Typescript solution
-- [solution_76.ts](solution_76.ts) - Typescript solution
-- [solution_77.ts](solution_77.ts) - Typescript solution
-- [solution_78.ts](solution_78.ts) - Typescript solution
-- [solution_79.ts](solution_79.ts) - Typescript solution
-- [solution_80.ts](solution_80.ts) - Typescript solution
-- [solution_81.ts](solution_81.ts) - Typescript solution
-- [solution_82.ts](solution_82.ts) - Typescript solution
-- [solution_83.ts](solution_83.ts) - Typescript solution
-- [solution_84.ts](solution_84.ts) - Typescript solution
-- [solution_85.ts](solution_85.ts) - Typescript solution
-- [solution_86.ts](solution_86.ts) - Typescript solution
-- [solution_87.ts](solution_87.ts) - Typescript solution
-- [solution_88.ts](solution_88.ts) - Typescript solution
-- [solution_89.ts](solution_89.ts) - Typescript solution
-- [solution_90.ts](solution_90.ts) - Typescript solution
-- [solution_91.ts](solution_91.ts) - Typescript solution
-- [solution_92.ts](solution_92.ts) - Typescript solution
-- [solution_93.ts](solution_93.ts) - Typescript solution
-- [solution_94.ts](solution_94.ts) - Typescript solution
-- [solution_95.ts](solution_95.ts) - Typescript solution
-- [solution_96.ts](solution_96.ts) - Typescript solution
-- [solution_97.ts](solution_97.ts) - Typescript solution
-- [solution_98.ts](solution_98.ts) - Typescript solution
-- [solution_99.ts](solution_99.ts) - Typescript solution
-- [solution_100.ts](solution_100.ts) - Typescript solution
-- [solution_101.ts](solution_101.ts) - Typescript solution
-- [solution_102.ts](solution_102.ts) - Typescript solution
-- [solution_103.ts](solution_103.ts) - Typescript solution
+
+---
+
+*Auto-generated by LeetCode to GitHub Chrome Extension*
