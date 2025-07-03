@@ -4,7 +4,7 @@
 # URL: https://leetcode.com/problems/3sum/
 # Date: 7/3/2025
 
-        map.put()
+        map.put(nu)
     }
 
     int n = nums.length;
