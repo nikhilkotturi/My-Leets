@@ -57,3 +57,4 @@
 - [solution_53.ts](solution_53.ts) - Typescript solution
 - [solution_54.ts](solution_54.ts) - Typescript solution
 - [solution_55.ts](solution_55.ts) - Typescript solution
+- [solution_56.ts](solution_56.ts) - Typescript solution
