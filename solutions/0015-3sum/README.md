@@ -12,7 +12,7 @@ Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]]
 
 Notice that the solution set must not contain duplicate triplets.
 
- 
+Â 
 Example 1:
 
 Input: nums = [-1,0,1,2,-1,-4]
@@ -26,6 +26,7 @@ The distinct triplets are [-1,0,1] and [...
 ## Solution
 
 - [solution.ts](solution.ts) - Typescript solution
+- [solution_103.ts](solution_103.ts) - Typescript solution
 
 ---
 
