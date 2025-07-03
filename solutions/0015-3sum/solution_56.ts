@@ -13,4 +13,4 @@ class Solution {
     Set<List<Integer>> resultSet = new HashSet<>();
     Map<Integer, Integer> map = new HashMap<>();
 
-    for(int i = 0; i < )
+    for(int i = 0; i < n; )
