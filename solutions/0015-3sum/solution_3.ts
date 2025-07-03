@@ -4,7 +4,7 @@
 # URL: https://leetcode.com/problems/3sum/submissions/1684574912/
 # Date: 7/2/2025
 
-// 1. Brute Force Solution - O(n^3)
+// 1. Brute Force Solution - O(n^3) 
 
 // class Solution {
 //     public List<List<Integer>> threeSum(int[] nums) {
