@@ -15,3 +15,4 @@
 - [solution_11.ts](solution_11.ts) - Typescript solution
 - [solution_12.ts](solution_12.ts) - Typescript solution
 - [solution_13.ts](solution_13.ts) - Typescript solution
+- [solution_14.ts](solution_14.ts) - Typescript solution
