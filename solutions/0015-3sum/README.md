@@ -8,3 +8,4 @@
 - [solution_4.ts](solution_4.ts) - Typescript solution
 - [solution_5.ts](solution_5.ts) - Typescript solution
 - [solution_6.ts](solution_6.ts) - Typescript solution
+- [solution_7.ts](solution_7.ts) - Typescript solution
