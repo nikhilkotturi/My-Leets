@@ -7,3 +7,4 @@
 - [solution_3.ts](solution_3.ts) - Typescript solution
 - [solution_4.ts](solution_4.ts) - Typescript solution
 - [solution_5.ts](solution_5.ts) - Typescript solution
+- [solution_6.ts](solution_6.ts) - Typescript solution
