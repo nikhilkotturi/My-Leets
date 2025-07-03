@@ -104,3 +104,4 @@
 - [solution_100.ts](solution_100.ts) - Typescript solution
 - [solution_101.ts](solution_101.ts) - Typescript solution
 - [solution_102.ts](solution_102.ts) - Typescript solution
+- [solution_103.ts](solution_103.ts) - Typescript solution
