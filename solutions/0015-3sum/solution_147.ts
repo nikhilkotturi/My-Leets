@@ -13,4 +13,4 @@ class Solution {
     int n = nums.length;
 
      for(int i = 0; i < n; i ++){
-        if(i > 0 && )
+        if(i > 0 && num)
