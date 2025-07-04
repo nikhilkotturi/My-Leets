@@ -9,7 +9,7 @@
 
         while(j < k){
             sum = nums[i] + nums[j] + nums[k];
-            
+            if()
         }
      }
 
