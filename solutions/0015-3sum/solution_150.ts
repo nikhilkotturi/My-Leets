@@ -9,8 +9,8 @@
 
         while(j < k){
             sum = nums[i] + nums[j] + nums[k];
+            
         }
      }
 
      return new ArrayList<List<Integer>>(resultSet);   
-    }
