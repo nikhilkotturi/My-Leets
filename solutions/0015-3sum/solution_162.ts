@@ -13,4 +13,4 @@
                 j++;
                 k--;
 
-                while(j < k && nums[j] == nums)
+                while(j < k && nums[j] == nums[j])
