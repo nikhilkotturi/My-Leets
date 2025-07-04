@@ -4,7 +4,7 @@
 # URL: https://leetcode.com/problems/3sum/
 # Date: 7/3/2025
 
-                while(j < k && nums[j] == nums[k + 1]) k--;
+                while(j < k && nums[k] == nums[k + 1]) k--;
             }
         }
      }
