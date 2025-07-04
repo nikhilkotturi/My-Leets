@@ -20,3 +20,4 @@
 - [solution_117.ts](solution_117.ts) - Typescript solution
 - [solution_118.ts](solution_118.ts) - Typescript solution
 - [solution_119.ts](solution_119.ts) - Typescript solution
+- [solution_120.ts](solution_120.ts) - Typescript solution
