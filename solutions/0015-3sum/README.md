@@ -148,3 +148,4 @@
 - [solution_244.ts](solution_244.ts) - Typescript solution
 - [solution_245.ts](solution_245.ts) - Typescript solution
 - [solution_246.ts](solution_246.ts) - Typescript solution
+- [solution_247.ts](solution_247.ts) - Typescript solution
