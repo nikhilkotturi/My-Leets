@@ -106,3 +106,4 @@
 - [solution_202.ts](solution_202.ts) - Typescript solution
 - [solution_203.ts](solution_203.ts) - Typescript solution
 - [solution_204.ts](solution_204.ts) - Typescript solution
+- [solution_205.ts](solution_205.ts) - Typescript solution
