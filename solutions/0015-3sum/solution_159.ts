@@ -4,13 +4,13 @@
 # URL: https://leetcode.com/problems/3sum/
 # Date: 7/3/2025
 
-// 1. Brute Force Solution - O(n^3) - giving me TLE 
+//                 if(nums[i] + nums[j] + nums[k] == 0){
+//                     List<Integer> triplet = Arrays.asList(nums[i], nums[j], nums[k]);
+//                     Collections.sort(triplet);
+//                     resultSet.add(triplet);
+//                 }
+//             } 
+//         }
+//      }
 
-// class Solution {
-//     public List<List<Integer>> threeSum(int[] nums) {
-    
-//     Set<List<Integer>> resultSet = new HashSet<>();
-//     int n = nums.length;
-//      for(int i = 0; i < n; i ++){
-//         for(int j = i + 1; j < n; j++){
-//             for(int k = j + 1; k < n; k++){
+//      return new ArrayList<List<Integer>>(resultSet);   
