@@ -7,7 +7,7 @@
 //     }
 // }
 
-// 1. Brute Force Solution - O(n^2)
+// 1. Brute  Solution - O(n^2)
 
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
