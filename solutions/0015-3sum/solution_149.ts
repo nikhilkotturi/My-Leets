@@ -8,7 +8,7 @@
         int k = n - 1;
 
         while(j < k){
-            sum = n
+            sum = nums[o]
         }
      }
 
