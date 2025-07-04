@@ -7,7 +7,7 @@
         int j = i + 1;
         int k = n - 1;
 
-        
+        while()
      }
 
      return new ArrayList<List<Integer>>(resultSet);   
