@@ -5,7 +5,9 @@
 # Date: 7/3/2025
 
         int j = i + 1;
-        int k = n - 
+        int k = n - 1;
+
+        
      }
 
      return new ArrayList<List<Integer>>(resultSet);   
