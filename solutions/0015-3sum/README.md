@@ -22,3 +22,4 @@
 - [solution_119.ts](solution_119.ts) - Typescript solution
 - [solution_120.ts](solution_120.ts) - Typescript solution
 - [solution_121.ts](solution_121.ts) - Typescript solution
+- [solution_122.ts](solution_122.ts) - Typescript solution
