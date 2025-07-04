@@ -133,3 +133,4 @@
 - [solution_229.ts](solution_229.ts) - Typescript solution
 - [solution_230.ts](solution_230.ts) - Typescript solution
 - [solution_231.ts](solution_231.ts) - Typescript solution
+- [solution_232.ts](solution_232.ts) - Typescript solution
