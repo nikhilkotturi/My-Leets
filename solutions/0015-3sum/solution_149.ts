@@ -4,7 +4,7 @@
 # URL: https://leetcode.com/problems/3sum/
 # Date: 7/3/2025
 
-        int j = i + 12
+        int j = i + 1;
      }
 
      return new ArrayList<List<Integer>>(resultSet);   
