@@ -13,4 +13,4 @@
 
             }
 
-            else if(sum >)
+            else if(sum > 0)
