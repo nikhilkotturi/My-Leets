@@ -13,12 +13,4 @@ class Solution {
     int n = nums.length;
 
      for(int i = 0; i < n; i ++){
-        Set<Integer> newSet = new HashSet<>();
-…
-        }
-     }
 
-
-     return new ArrayList<List<Integer>>(resultSet);   
-    }
-}
