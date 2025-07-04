@@ -11,6 +11,6 @@
                 List<Integer> triplet = Arrays.asList(nums[i], nums[j], nums[k]);
                 resultSet.add(triplet);
 
-                
-
             }
+        }
+     }
