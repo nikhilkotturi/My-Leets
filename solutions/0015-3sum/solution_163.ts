@@ -10,7 +10,7 @@
         while(j < k){
             sum = nums[i] + nums[j] + nums[k];
             if(sum < 0){
-
+                
             }
 
             else if(sum > 0){
