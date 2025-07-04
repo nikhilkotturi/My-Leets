@@ -13,4 +13,4 @@
                 j++;
                 k--;
 
-                while()
+                while(j < )
