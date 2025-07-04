@@ -6,7 +6,7 @@
 
         Set<Integer> newSet = new HashSet<>();
         for(int j = i + 1; j < n; j++){
-            int k = nums
+            int k = (-1)*(nums[i] + nums[j]);
             if()
         }
      }
