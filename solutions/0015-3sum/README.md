@@ -67,3 +67,4 @@
 - [solution_164.ts](solution_164.ts) - Typescript solution
 - [solution_4.txt](solution_4.txt) - Unknown solution
 - [solution_165.ts](solution_165.ts) - Typescript solution
+- [solution_166.ts](solution_166.ts) - Typescript solution
