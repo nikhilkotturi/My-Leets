@@ -9,10 +9,10 @@
 
 // 2. Somewhat better Solution - O(n^2) - two sum application, but using two loops
 
-class Solution {
-    public List<List<Integer>> threeSum(int[] nums) {
+// class Solution {
+//     public List<List<Integer>> threeSum(int[] nums) {
     
-    Set<List<Integer>> resultSet = new HashSet<>();
-    int n = nums.length;
-…}
+//     Set<List<Integer>> resultSet = new HashSet<>();
+//     int n = nums.length;
+…// }
 
