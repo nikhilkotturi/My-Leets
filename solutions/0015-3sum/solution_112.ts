@@ -7,7 +7,7 @@
 //     }
 // }
 
-// 1.  Solution - O(n^2)
+// 1. S Solution - O(n^2)
 
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
