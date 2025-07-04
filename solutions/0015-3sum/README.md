@@ -13,3 +13,4 @@
 - [solution_111.ts](solution_111.ts) - Typescript solution
 - [solution_3.txt](solution_3.txt) - Unknown solution
 - [solution_112.ts](solution_112.ts) - Typescript solution
+- [solution_113.ts](solution_113.ts) - Typescript solution
