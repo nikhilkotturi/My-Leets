@@ -7,7 +7,7 @@
 //     }
 // }
 
-// 2. Somewhat better Solution - O(n^2) - two sum application
+// 2. Somewhat better Solution - O(n^2) - two sum application, but
 
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
