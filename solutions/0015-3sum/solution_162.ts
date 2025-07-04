@@ -6,11 +6,9 @@
 
 
             }
+        }
+     }
 
-            else{
-                List<Integer> triplet = Arrays.asList(nums[i], nums[j], nums[k]);
-                resultSet.add(triplet);
-                j++;
-                k--;
-
-                while(j < k && nums[j] == nums[j - 1])
+     return new ArrayList<List<Integer>>(resultSet);   
+    }
+}
