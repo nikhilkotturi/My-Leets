@@ -7,7 +7,7 @@
 //     }
 // }
 
-// 1. Brute Force Solution - O(n^3) - giving me TLE 
+// 1. Brute Force Solution - O(n^3) 
 
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
