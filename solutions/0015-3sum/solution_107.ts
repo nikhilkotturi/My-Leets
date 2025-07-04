@@ -4,13 +4,13 @@
 # URL: https://leetcode.com/problems/3sum/
 # Date: 7/3/2025
 
-//     }
-// }
+        Set<int> newSet = 
+        for(int j = i + 1; j < n; j++){
+            if()
+        }
+     }
 
-class Solution {
-    public List<List<Integer>> threeSum(int[] nums) {
-    
-    Set<List<Integer>> resultSet = new HashSet<>();
-    int n = nums.length;
-     for(int i = 0; i < n; i ++){
+     return new ArrayList<List<Integer>>(resultSet);   
+    }
+}
 
