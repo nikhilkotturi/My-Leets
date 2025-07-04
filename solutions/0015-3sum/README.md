@@ -62,3 +62,4 @@
 - [solution_159.ts](solution_159.ts) - Typescript solution
 - [solution_160.ts](solution_160.ts) - Typescript solution
 - [solution_161.ts](solution_161.ts) - Typescript solution
+- [solution_162.ts](solution_162.ts) - Typescript solution
