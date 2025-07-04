@@ -29,3 +29,4 @@
 - [solution_126.ts](solution_126.ts) - Typescript solution
 - [solution_127.ts](solution_127.ts) - Typescript solution
 - [solution_128.ts](solution_128.ts) - Typescript solution
+- [solution_129.ts](solution_129.ts) - Typescript solution
