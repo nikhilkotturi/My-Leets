@@ -8,7 +8,7 @@
         int k = n - 1;
 
         while(j < k){
-            sum = nums[i] + nums[i] + 
+            sum = nums[i] + nums[i] + nums[i];
         }
      }
 
