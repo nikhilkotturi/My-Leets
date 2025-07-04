@@ -7,10 +7,10 @@
         Set<Integer> newSet = new HashSet<>();
         for(int j = i + 1; j < n; j++){
             int k = (-1)*(nums[i] + nums[j]);
-            if()
+            if(newSet.contains(k)){
+                
+            }
         }
      }
 
      return new ArrayList<List<Integer>>(resultSet);   
-    }
-}
