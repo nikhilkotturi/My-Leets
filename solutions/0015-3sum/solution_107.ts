@@ -4,7 +4,7 @@
 # URL: https://leetcode.com/problems/3sum/
 # Date: 7/3/2025
 
-        Set<Integer> newSet
+        Set<Integer> newSet = new HashSet<>();
         for(int j = i + 1; j < n; j++){
             if()
         }
