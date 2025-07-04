@@ -97,3 +97,4 @@
 - [solution_193.ts](solution_193.ts) - Typescript solution
 - [solution_194.ts](solution_194.ts) - Typescript solution
 - [solution_195.ts](solution_195.ts) - Typescript solution
+- [solution_196.ts](solution_196.ts) - Typescript solution
