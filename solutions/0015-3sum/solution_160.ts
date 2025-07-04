@@ -9,8 +9,8 @@
 
             else{
                 List<Integer> triplet = Arrays.asList(nums[i], nums[j], nums[k]);
+                
             }
         }
      }
 
-     return new ArrayList<List<Integer>>(resultSet);   
