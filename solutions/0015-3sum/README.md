@@ -8,3 +8,4 @@
 - [solution_277.ts](solution_277.ts) - Typescript solution
 - [solution_278.ts](solution_278.ts) - Typescript solution
 - [solution_279.ts](solution_279.ts) - Typescript solution
+- [solution_280.ts](solution_280.ts) - Typescript solution
