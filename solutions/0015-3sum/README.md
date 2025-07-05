@@ -10,3 +10,4 @@
 - [solution_279.ts](solution_279.ts) - Typescript solution
 - [solution_280.ts](solution_280.ts) - Typescript solution
 - [solution_281.ts](solution_281.ts) - Typescript solution
+- [solution_282.ts](solution_282.ts) - Typescript solution
