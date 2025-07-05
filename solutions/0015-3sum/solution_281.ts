@@ -4,13 +4,13 @@
 # URL: https://leetcode.com/problems/3sum/
 # Date: 7/4/2025
 
-// }
 
-class Solution {
-    public List<List<Integer>> threeSum(int[] nums) {
+     for(int i = 0; i < n; i ++){
+        if(i > 0 && nums[i] == nums[i - 1]) continue;
+        int j = i + 1;
+        int k = n - 1;
 
-    List<List<Integer>> result = new ArrayList<>();
-
-    Arrays.sort(nums);
-
-    int n = nums.length;
+        while(j < k){
+          int sum = nums[i] + nums[j] + nums[k];
+            if(sum < 0){
+                j++;
