@@ -9,3 +9,4 @@
 - [solution_278.ts](solution_278.ts) - Typescript solution
 - [solution_279.ts](solution_279.ts) - Typescript solution
 - [solution_280.ts](solution_280.ts) - Typescript solution
+- [solution_281.ts](solution_281.ts) - Typescript solution
