@@ -1,175 +1,32 @@
+# 3sum
 
+**Problem Number:** 15
 
-## Solutions
+**Difficulty:** Medium
 
-- [solution_103.ts](solution_103.ts) - Typescript solution
-- [solution_104.ts](solution_104.ts) - Typescript solution
-- [solution_105.ts](solution_105.ts) - Typescript solution
-- [solution_106.ts](solution_106.ts) - Typescript solution
-- [solution_107.ts](solution_107.ts) - Typescript solution
-- [solution_108.ts](solution_108.ts) - Typescript solution
-- [solution_109.ts](solution_109.ts) - Typescript solution
-- [solution_110.ts](solution_110.ts) - Typescript solution
-- [solution_111.ts](solution_111.ts) - Typescript solution
-- [solution_3.txt](solution_3.txt) - Unknown solution
-- [solution_112.ts](solution_112.ts) - Typescript solution
-- [solution_113.ts](solution_113.ts) - Typescript solution
-- [solution_114.ts](solution_114.ts) - Typescript solution
-- [solution_115.ts](solution_115.ts) - Typescript solution
-- [solution_116.ts](solution_116.ts) - Typescript solution
-- [solution_117.ts](solution_117.ts) - Typescript solution
-- [solution_118.ts](solution_118.ts) - Typescript solution
-- [solution_119.ts](solution_119.ts) - Typescript solution
-- [solution_120.ts](solution_120.ts) - Typescript solution
-- [solution_121.ts](solution_121.ts) - Typescript solution
-- [solution_122.ts](solution_122.ts) - Typescript solution
-- [solution_123.ts](solution_123.ts) - Typescript solution
-- [solution_124.ts](solution_124.ts) - Typescript solution
-- [solution_125.ts](solution_125.ts) - Typescript solution
-- [solution_126.ts](solution_126.ts) - Typescript solution
-- [solution_127.ts](solution_127.ts) - Typescript solution
-- [solution_128.ts](solution_128.ts) - Typescript solution
-- [solution_129.ts](solution_129.ts) - Typescript solution
-- [solution_130.ts](solution_130.ts) - Typescript solution
-- [solution_131.ts](solution_131.ts) - Typescript solution
-- [solution_132.ts](solution_132.ts) - Typescript solution
-- [solution_133.ts](solution_133.ts) - Typescript solution
-- [solution_134.ts](solution_134.ts) - Typescript solution
-- [solution_135.ts](solution_135.ts) - Typescript solution
-- [solution_136.ts](solution_136.ts) - Typescript solution
-- [solution_137.ts](solution_137.ts) - Typescript solution
-- [solution_138.ts](solution_138.ts) - Typescript solution
-- [solution_139.ts](solution_139.ts) - Typescript solution
-- [solution_140.ts](solution_140.ts) - Typescript solution
-- [solution_141.ts](solution_141.ts) - Typescript solution
-- [solution_142.ts](solution_142.ts) - Typescript solution
-- [solution_143.ts](solution_143.ts) - Typescript solution
-- [solution_144.ts](solution_144.ts) - Typescript solution
-- [solution_145.ts](solution_145.ts) - Typescript solution
-- [solution_146.ts](solution_146.ts) - Typescript solution
-- [solution_147.ts](solution_147.ts) - Typescript solution
-- [solution_148.ts](solution_148.ts) - Typescript solution
-- [solution_149.ts](solution_149.ts) - Typescript solution
-- [solution_150.ts](solution_150.ts) - Typescript solution
-- [solution_151.ts](solution_151.ts) - Typescript solution
-- [solution_152.ts](solution_152.ts) - Typescript solution
-- [solution_153.ts](solution_153.ts) - Typescript solution
-- [solution_154.ts](solution_154.ts) - Typescript solution
-- [solution_155.ts](solution_155.ts) - Typescript solution
-- [solution_156.ts](solution_156.ts) - Typescript solution
-- [solution_157.ts](solution_157.ts) - Typescript solution
-- [solution_158.ts](solution_158.ts) - Typescript solution
-- [solution_159.ts](solution_159.ts) - Typescript solution
-- [solution_160.ts](solution_160.ts) - Typescript solution
-- [solution_161.ts](solution_161.ts) - Typescript solution
-- [solution_162.ts](solution_162.ts) - Typescript solution
-- [solution_163.ts](solution_163.ts) - Typescript solution
-- [solution_164.ts](solution_164.ts) - Typescript solution
-- [solution_4.txt](solution_4.txt) - Unknown solution
-- [solution_165.ts](solution_165.ts) - Typescript solution
-- [solution_166.ts](solution_166.ts) - Typescript solution
-- [solution_167.ts](solution_167.ts) - Typescript solution
-- [solution_168.ts](solution_168.ts) - Typescript solution
-- [solution_169.ts](solution_169.ts) - Typescript solution
-- [solution_170.ts](solution_170.ts) - Typescript solution
-- [solution_171.ts](solution_171.ts) - Typescript solution
-- [solution_172.ts](solution_172.ts) - Typescript solution
-- [solution_173.ts](solution_173.ts) - Typescript solution
-- [solution_174.ts](solution_174.ts) - Typescript solution
-- [solution_175.ts](solution_175.ts) - Typescript solution
-- [solution_176.ts](solution_176.ts) - Typescript solution
-- [solution_177.ts](solution_177.ts) - Typescript solution
-- [solution_178.ts](solution_178.ts) - Typescript solution
-- [solution_179.ts](solution_179.ts) - Typescript solution
-- [solution_180.ts](solution_180.ts) - Typescript solution
-- [solution_181.ts](solution_181.ts) - Typescript solution
-- [solution_182.ts](solution_182.ts) - Typescript solution
-- [solution_183.ts](solution_183.ts) - Typescript solution
-- [solution_184.ts](solution_184.ts) - Typescript solution
-- [solution_185.ts](solution_185.ts) - Typescript solution
-- [solution_186.ts](solution_186.ts) - Typescript solution
-- [solution_187.ts](solution_187.ts) - Typescript solution
-- [solution_188.ts](solution_188.ts) - Typescript solution
-- [solution_189.ts](solution_189.ts) - Typescript solution
-- [solution_190.ts](solution_190.ts) - Typescript solution
-- [solution_191.ts](solution_191.ts) - Typescript solution
-- [solution_192.ts](solution_192.ts) - Typescript solution
-- [solution_193.ts](solution_193.ts) - Typescript solution
-- [solution_194.ts](solution_194.ts) - Typescript solution
-- [solution_195.ts](solution_195.ts) - Typescript solution
-- [solution_196.ts](solution_196.ts) - Typescript solution
-- [solution_197.ts](solution_197.ts) - Typescript solution
-- [solution_198.ts](solution_198.ts) - Typescript solution
-- [solution_199.ts](solution_199.ts) - Typescript solution
-- [solution_200.ts](solution_200.ts) - Typescript solution
-- [solution_201.ts](solution_201.ts) - Typescript solution
-- [solution_202.ts](solution_202.ts) - Typescript solution
-- [solution_203.ts](solution_203.ts) - Typescript solution
-- [solution_204.ts](solution_204.ts) - Typescript solution
-- [solution_205.ts](solution_205.ts) - Typescript solution
-- [solution_206.ts](solution_206.ts) - Typescript solution
-- [solution_207.ts](solution_207.ts) - Typescript solution
-- [solution_208.ts](solution_208.ts) - Typescript solution
-- [solution_209.ts](solution_209.ts) - Typescript solution
-- [solution_210.ts](solution_210.ts) - Typescript solution
-- [solution_211.ts](solution_211.ts) - Typescript solution
-- [solution_212.ts](solution_212.ts) - Typescript solution
-- [solution_213.ts](solution_213.ts) - Typescript solution
-- [solution_214.ts](solution_214.ts) - Typescript solution
-- [solution_215.ts](solution_215.ts) - Typescript solution
-- [solution_216.ts](solution_216.ts) - Typescript solution
-- [solution_217.ts](solution_217.ts) - Typescript solution
-- [solution_218.ts](solution_218.ts) - Typescript solution
-- [solution_219.ts](solution_219.ts) - Typescript solution
-- [solution_220.ts](solution_220.ts) - Typescript solution
-- [solution_221.ts](solution_221.ts) - Typescript solution
-- [solution_222.ts](solution_222.ts) - Typescript solution
-- [solution_223.ts](solution_223.ts) - Typescript solution
-- [solution_224.ts](solution_224.ts) - Typescript solution
-- [solution_225.ts](solution_225.ts) - Typescript solution
-- [solution_226.ts](solution_226.ts) - Typescript solution
-- [solution_227.ts](solution_227.ts) - Typescript solution
-- [solution_228.ts](solution_228.ts) - Typescript solution
-- [solution_229.ts](solution_229.ts) - Typescript solution
-- [solution_230.ts](solution_230.ts) - Typescript solution
-- [solution_231.ts](solution_231.ts) - Typescript solution
-- [solution_232.ts](solution_232.ts) - Typescript solution
-- [solution_233.ts](solution_233.ts) - Typescript solution
-- [solution_234.ts](solution_234.ts) - Typescript solution
-- [solution_235.ts](solution_235.ts) - Typescript solution
-- [solution_236.ts](solution_236.ts) - Typescript solution
-- [solution_237.ts](solution_237.ts) - Typescript solution
-- [solution_238.ts](solution_238.ts) - Typescript solution
-- [solution_239.ts](solution_239.ts) - Typescript solution
-- [solution_240.ts](solution_240.ts) - Typescript solution
-- [solution_241.ts](solution_241.ts) - Typescript solution
-- [solution_242.ts](solution_242.ts) - Typescript solution
-- [solution_243.ts](solution_243.ts) - Typescript solution
-- [solution_244.ts](solution_244.ts) - Typescript solution
-- [solution_245.ts](solution_245.ts) - Typescript solution
-- [solution_246.ts](solution_246.ts) - Typescript solution
-- [solution_247.ts](solution_247.ts) - Typescript solution
-- [solution_248.ts](solution_248.ts) - Typescript solution
-- [solution_249.ts](solution_249.ts) - Typescript solution
-- [solution_250.ts](solution_250.ts) - Typescript solution
-- [solution_251.ts](solution_251.ts) - Typescript solution
-- [solution_252.ts](solution_252.ts) - Typescript solution
-- [solution_253.ts](solution_253.ts) - Typescript solution
-- [solution_254.ts](solution_254.ts) - Typescript solution
-- [solution_255.ts](solution_255.ts) - Typescript solution
-- [solution_256.ts](solution_256.ts) - Typescript solution
-- [solution_257.ts](solution_257.ts) - Typescript solution
-- [solution_258.ts](solution_258.ts) - Typescript solution
-- [solution_259.ts](solution_259.ts) - Typescript solution
-- [solution_260.ts](solution_260.ts) - Typescript solution
-- [solution_261.ts](solution_261.ts) - Typescript solution
-- [solution_262.ts](solution_262.ts) - Typescript solution
-- [solution_263.ts](solution_263.ts) - Typescript solution
-- [solution_264.ts](solution_264.ts) - Typescript solution
-- [solution_265.ts](solution_265.ts) - Typescript solution
-- [solution_266.ts](solution_266.ts) - Typescript solution
-- [solution_267.ts](solution_267.ts) - Typescript solution
-- [solution_268.ts](solution_268.ts) - Typescript solution
-- [solution_269.ts](solution_269.ts) - Typescript solution
-- [solution_270.ts](solution_270.ts) - Typescript solution
-- [solution_271.ts](solution_271.ts) - Typescript solution
+**LeetCode URL:** [3sum](https://leetcode.com/problems/3sum/submissions/1685739515/)
+
+## Problem Description
+
+Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
+
+Notice that the solution set must not contain duplicate triplets.
+
+ 
+Example 1:
+
+Input: nums = [-1,0,1,2,-1,-4]
+Output: [[-1,-1,2],[-1,0,1]]
+Explanation: 
+nums[0] + nums[1] + nums[2] = (-1) + 0 + 1 = 0.
+nums[1] + nums[2] + nums[4] = 0 + 1 + (-1) = 0.
+nums[0] + nums[3] + nums[4] = (-1) + 2 + (-1) = 0.
+The distinct triplets are [-1,0,1] and [...
+
+## Solution
+
+- [solution.ts](solution.ts) - Typescript solution
+
+---
+
+*Auto-generated by LeetCode to GitHub Chrome Extension*
