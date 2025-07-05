@@ -1,0 +1,17 @@
+# subarray sum equals k (Solution 2)
+# Difficulty: Medium
+# Language: Unknown
+# URL: https://leetcode.com/problems/subarray-sum-equals-k/
+# Date: 7/4/2025
+
+class Solution {
+    public int subarraySum(int[] nums, int k) {
+        int n = nums.length;
+        int prefixSum = 0, count = 0;
+        Map<Integer, Integer> sumStore = new HashMap<>();
+
+        sumStore.put(0,1);
+
+        
+        for(int i = 0; i < n; i++){
+…}
