@@ -1,0 +1,16 @@
+# subarray sum equals k (Solution 6)
+# Difficulty: Medium
+# Language: Unknown
+# URL: https://leetcode.com/problems/subarray-sum-equals-k/
+# Date: 7/6/2025
+
+           prefixSum += nums[i];
+           int rem = prefixSum - k;
+           if(sumStore.containsKey(rem)){
+            count += sumStore.get(rem);
+           }
+       
+           int value = 0;
+            if (sumStore.containsKey(prefixSum)) {
+                value = sumStore.get(prefixSum);
+            }
